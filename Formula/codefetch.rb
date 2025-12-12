@@ -3,7 +3,7 @@ class Codefetch < Formula
   homepage "https://codefetch.io"
   version "1.0.0"
   url "https://dl.cloudsmith.io/public/hsops/codefetch/raw/files/codefetch.tar.gz"
-  sha256 "ff003f42980d2877b2df4cece42493d400d38de180406d020ba7ee3892b066e8"
+  sha256 "68bd8cf0f17d09fbe181eb23d934fddb41bec3e628b2323967ba4d9c3ecd0d85"
   license "MIT"
 
   def install
